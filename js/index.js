@@ -32,7 +32,7 @@ function calcular(tipo, valor) {
 // Typed.JS
 $(document).ready(function () {
   var bemVindo = new Typed('#ola', {
-    strings: ['^1000 Olá! ^1000 sou uma simples calculadora em JavaScript!'],
+    strings: ['^1000 Olá! ^1000 sou uma simples calculadora feita em JavaScript!'],
     smartBackspace: true,
     typeSpeed: 60,
     backSpeed: 50,
